@@ -1,5 +1,5 @@
 {
-  "name": "jsonschema-protobuf",
+  "name": "jsonschema-protobuf2",
   "version": "1.0.2",
   "description": "json-schema.org to protobuf object converter",
   "main": "index.js",
